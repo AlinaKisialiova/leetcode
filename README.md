@@ -6,6 +6,7 @@ My leetcode solutions
 |1   |[Two sum](https://leetcode.com/problems/two-sum/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/TwoSum.java)|Easy|Arrays
 |7   |[Reverse Integers](https://leetcode.com/problems/reverse-integer/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/ReverseInteger.java)|Easy|Math|
 |88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/MergeSortedArray.java)|Easy|Array, Merge Sorting|
+|266 |[Palindrome Permutation](https://leetcode.com/articles/palindrome-permutation/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/PalindromePermutation.java)|Easy|String|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/TwoCityScheduling.java)|Easy|Greedy algorithms|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/RemoveAdjacentDuplicates.java)|Easy|Stack
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/StringMatchingInArray.java)|Easy|String,KMP
@@ -17,4 +18,4 @@ My leetcode solutions
 |518 |[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/CoinChange2.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/LongestCommonSubsequence.java)|Medium|Dynamic Programming|
 
-Total: 13
+Total: 14
