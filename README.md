@@ -7,6 +7,7 @@ My leetcode solutions
 |7   |[Reverse Integers](https://leetcode.com/problems/reverse-integer/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/ReverseInteger.java)|Easy|Math|
 |88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/MergeSortedArray.java)|Easy|Array, Merge Sorting|
 |266 |[Palindrome Permutation](https://leetcode.com/articles/palindrome-permutation/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/PalindromePermutation.java)|Easy|String|
+|876 |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/MiddleOfTheLinkedList.java)|Easy|LinkedList|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/TwoCityScheduling.java)|Easy|Greedy algorithms|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/RemoveAdjacentDuplicates.java)|Easy|Stack
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/StringMatchingInArray.java)|Easy|String,KMP
