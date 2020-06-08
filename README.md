@@ -22,4 +22,4 @@ My leetcode solutions
 |518 |[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/CoinChange2.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/LongestCommonSubsequence.java)|Medium|Dynamic Programming|
 
-Total: 17
+Total: 18
