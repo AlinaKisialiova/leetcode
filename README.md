@@ -6,6 +6,7 @@ My leetcode solutions
 |1   |[Two sum](https://leetcode.com/problems/two-sum/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/TwoSum.java)|Easy|Arrays
 |7   |[Reverse Integers](https://leetcode.com/problems/reverse-integer/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/ReverseInteger.java)|Easy|Math|
 |88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/MergeSortedArray.java)|Easy|Array, Merge Sorting|
+|155 |[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/MinStack.java)|Easy|Stack|
 |266 |[Palindrome Permutation](https://leetcode.com/articles/palindrome-permutation/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/PalindromePermutation.java)|Easy|String|
 |876 |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/MiddleOfTheLinkedList.java)|Easy|LinkedList|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/easy/TwoCityScheduling.java)|Easy|Greedy algorithms|
@@ -22,4 +23,4 @@ My leetcode solutions
 |518 |[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/CoinChange2.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/LongestCommonSubsequence.java)|Medium|Dynamic Programming|
 
-Total: 18
+Total: 19
