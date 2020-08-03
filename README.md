@@ -20,6 +20,7 @@ My leetcode solutions
 |86  |[Partition List](https://leetcode.com/problems/partition-list/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/PartitionList.java)|Medium|Arrays|
 |98  |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/ValidateBinarySearchTree.java)|Medium|BST|
 |127 |[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/WordLadder.java)|Medium|Breadth-first Search|
+|138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/CopyListWithRandomPointer.java)|Medium|List|
 |208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/Trie.java)|Medium|Trie|
 |285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/InorderSuccessorInBST.java)|Medium|BST|
 |322 |[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](https://github.com/AlinaKisialiova/leetcode/blob/master/src/medium/CoinChange.java)|Medium|Dynamic Programming|
